@@ -61,8 +61,8 @@ apps = [
     ("🔋 バッテリー持続計算", "https://gzgy6vngtgrgxbafzgczbd.streamlit.app/"),
 
     # 11行目 (左側に追加)
-    ("📺 テレビ番組表", "https://cw62cfu7zm7iar6znuxzbg.streamlit.app/"), # ※番組表アプリのURLを入れてください
     ("", ""), # 右側は空欄
+    ("📺 テレビ番組表", "https://cw62cfu7zm7iar6znuxzbg.streamlit.app/"), # ※番組表アプリのURLを入れてください
 ]
 
 # 2列でボタンを配置
