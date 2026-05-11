@@ -29,7 +29,7 @@ apps = [
     ("🔍 ポートスキャンツール", "https://traceroute-dh8dbomk7zmwzhngojchrs.streamlit.app/"),
     
     # 3行目
-    ("🔢 伝送値換算(3200-FA00)(HEX)", "https://denatus-kouka-aktoharzrfntzg3ujbemx3.streamlit.app/"),
+    ("🔢 伝送値換算(3200-FA00)(HEX)クラウドTM", "https://denatus-kouka-aktoharzrfntzg3ujbemx3.streamlit.app/"),
     ("⚡ 消費電力計算", "https://p-e-i-w-ciq65gzsje57g5t2bjibev.streamlit.app/"),
     
     # 4行目
