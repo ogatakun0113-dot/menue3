@@ -2,7 +2,7 @@ import streamlit as st
 from datetime import datetime
 
 # ページ設定
-st.set_page_config(page_title="緒方ツールBOX", layout="centered")
+st.set_page_config(page_title="緒方TooL BOX", layout="centered")
 
 # カスタムCSS
 st.markdown("""
