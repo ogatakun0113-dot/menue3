@@ -13,7 +13,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 st.markdown('<p class="credit">開発/制作：緒方</p>', unsafe_allow_html=True)
-st.title("🌐緒方tooLBOX")
+st.title("🌐緒方toolbox")
 st.write("使いたいツールを選択してください")
 st.markdown("---")
 
