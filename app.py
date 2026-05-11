@@ -62,7 +62,7 @@ apps = [
 
     # 11行目 (左側に追加)
     ("", ""), # 右側は空欄
-    ("📺 テレビ番組表", "https://cw62cfu7zm7iar6znuxzbg.streamlit.app/"), # ※番組表アプリのURLを入れてください
+    ("📺 テレビ・ラジオ番組表", "https://cw62cfu7zm7iar6znuxzbg.streamlit.app/"), # ※番組表アプリのURLを入れてください
 ]
 
 # 2列でボタンを配置
